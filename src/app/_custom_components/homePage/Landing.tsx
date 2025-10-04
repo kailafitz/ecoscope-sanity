@@ -5,7 +5,7 @@ import { H1 } from "../layout/Headings";
 const Landing: React.FC = () => {
   return (
     <>
-      <div className="flex flex-col justify-end h-[calc(100vh_-_78.7px)] relative mb-16 md:mb-32">
+      <div className="flex flex-col justify-end h-[calc(100vh-78.7px)] relative mb-16 md:mb-32">
         <div className="bg-curve block pt-24 md:pt-32 -mb-1 max-w-full">
           <Container className="pb-10">
             <div className="w-full md:w-fit">
